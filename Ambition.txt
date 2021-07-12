@@ -1,0 +1,19 @@
+
+THINGS TO LEARN(Before 2022):
+MS Excel
+Statistics
+Mathematics
+SQL
+Python
+Tableau
+R Programming
+Machine Learning
+Deep Learning
+Apache Spark
+Microsoft Azure
+IBM SPSS
+Hadoop
+IBM Watson Studio
+JAVA
+Julia
+
